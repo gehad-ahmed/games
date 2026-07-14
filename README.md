@@ -1,5 +1,7 @@
 # 🎮 Free Games Explorer
 
+> 🔗 **Live Demo:** [https://gehad-ahmed.github.io/games/](https://gehad-ahmed.github.io/games/)
+
 A web app to browse and discover **free-to-play games**, with details for each title, built with vanilla JavaScript and the FreeToGame API.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
